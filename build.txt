@@ -1,3 +1,0 @@
-displayName = Biotonic
-author = Flareon (the epic guy)
-version = 0.3.0
